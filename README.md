@@ -142,42 +142,6 @@ any library function was called:
 
 ---
 
-## Civil Service Success Profile — Communicating and Influencing
-
-> _"Communicate purpose and direction with clarity, integrity and
-> enthusiasm. Respect the needs, responses and opinions of others."_
-> — Civil Service Success Profiles, HEO/SEO level
-
-**How this project demonstrates the behaviour:**
-
-This project was scoped, structured and written as a policy briefing
-for a Director of Public Health — a non-technical stakeholder
-audience. Every analytical decision was documented with a plain-English
-rationale. Visualisations were designed to be immediately interpretable
-without statistical training. Findings were framed with explicit
-commissioning implications rather than left as statistical observations.
-
-**STAR summary for Civil Service applications:**
-
-- **Situation:** NHS England faces a persistent and poorly-quantified
-  North-South health divide, with commissioning decisions often made
-  without rigorous evidence of the deprivation-health relationship.
-- **Task:** Analyse regional health outcome variation across all
-  English local authorities and communicate findings in a form
-  useful to public health commissioners.
-- **Action:** Built a reproducible analytical pipeline using OHID
-  Fingertips API data; computed Pearson correlations, regional
-  GroupBy summaries and a formal Welch's t-test; structured all
-  outputs as a policy briefing with explicit commissioning
-  implications for each finding.
-- **Result:** Quantified the North-South life expectancy gap as
-  2.49 years (t = −13.10, Cohen's d = 1.975); identified the
-  London Health Paradox as a systematic exception to national
-  deprivation-outcome relationships; produced four publication-
-  quality visualisations suitable for commissioner briefings.
-
----
-
 ## Project Structure
 
 ```
