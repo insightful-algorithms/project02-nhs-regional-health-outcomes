@@ -5,8 +5,6 @@
 ![scipy](https://img.shields.io/badge/scipy-1.17.1-blue)
 ![Phase](https://img.shields.io/badge/Phase-1%20EDA-green)
 ![Era](https://img.shields.io/badge/Era-1%20Classical-green)
-![DDaT](https://img.shields.io/badge/DDaT-HEO-orange)
-![Behaviour](https://img.shields.io/badge/CS%20Behaviour-Communicating%20%26%20Influencing-purple)
 
 ## Overview
 
