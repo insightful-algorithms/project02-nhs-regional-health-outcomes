@@ -181,6 +181,15 @@ jupyter notebook
 #    No manual data download required
 ```
 
+## Author
+
+**Ose Omokhua**
+MSc Data Science · BSc Physics 
+London, UK
+
+Open to Data Engineer & Data Scientist roles (UK and Remote)
+
+[![GitHub](https://img.shields.io/badge/GitHub-insightful--algorithms-181717?style=flat&logo=github&logoColor=white)](https://github.com/insightful-algorithms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omokhua-ose)
 ---
 
-_Portfolio: [github.com/insightful-algorithms](https://github.com/insightful-algorithms)_
