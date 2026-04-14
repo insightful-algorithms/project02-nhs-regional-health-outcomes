@@ -1,11 +1,5 @@
 # Project 02 — NHS Regional Health Outcomes
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![pandas](https://img.shields.io/badge/pandas-3.0.1-blue)
-![scipy](https://img.shields.io/badge/scipy-1.17.1-blue)
-![Phase](https://img.shields.io/badge/Phase-1%20EDA-green)
-![Era](https://img.shields.io/badge/Era-1%20Classical-green)
-
 ## Overview
 
 A statistical analysis of regional health outcome variation across
