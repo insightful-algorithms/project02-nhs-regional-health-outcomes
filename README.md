@@ -1,4 +1,4 @@
-# Project 02 — NHS Regional Health Outcomes
+# Project 02 - NHS Regional Health Outcomes
 
 ## Overview
 
@@ -10,7 +10,7 @@ divide, and communicates findings as a structured policy briefing
 for a non-technical public health audience.
 
 **Civil Service Behaviour demonstrated:** Communicating and
-Influencing at HEO/SEO level — translating complex statistical
+Influencing at HEO/SEO level - translating complex statistical
 findings into clear, audience-appropriate policy recommendations
 for a Director of Public Health.
 
@@ -18,7 +18,7 @@ for a Director of Public Health.
 
 ## Key Findings
 
-### Finding 1 — Deprivation is the dominant predictor of life expectancy
+### Finding 1 - Deprivation is the dominant predictor of life expectancy
 
 > Pearson r = −0.862 | p < 0.001 | Slope = −0.178 years per IMD point
 
@@ -29,7 +29,7 @@ Across the full deprivation range in England, this translates to a
 predicted gap of **7.1 years** of life between the least and most
 deprived areas.
 
-### Finding 2 — The North-South health divide is statistically proven
+### Finding 2 - The North-South health divide is statistically proven
 
 > t = −13.10 | p < 0.001 | Cohen's d = 1.975 (Very Large)
 
@@ -40,7 +40,7 @@ authority has higher life expectancy than **98% of Northern local
 authorities**. This is one of the largest structural health
 inequalities in English public health data.
 
-### Finding 3 — The London Health Paradox
+### Finding 3 - The London Health Paradox
 
 Despite above-average deprivation (mean IMD = 21.5 vs England
 average 19.9), London has the **highest mean life expectancy**
@@ -50,7 +50,7 @@ suggesting deprivation operates differently in the capital.
 National deprivation-based funding formulae should not be applied
 uniformly across London and non-London areas.
 
-### Finding 4 — Child poverty in the North is double the Southern rate
+### Finding 4 - Child poverty in the North is double the Southern rate
 
 Yorkshire (29.7%) and North East (28.8%) child poverty rates are
 approximately **double** those of the South East (14.4%). This
