@@ -9,11 +9,6 @@ deprivation and life expectancy, quantifies the North-South health
 divide, and communicates findings as a structured policy briefing
 for a non-technical public health audience.
 
-**Civil Service Behaviour demonstrated:** Communicating and
-Influencing at HEO/SEO level - translating complex statistical
-findings into clear, audience-appropriate policy recommendations
-for a Director of Public Health.
-
 ---
 
 ## Key Findings
@@ -34,7 +29,7 @@ deprived areas.
 > t = −13.10 | p < 0.001 | Cohen's d = 1.975 (Very Large)
 
 Northern local authorities (North East, North West, Yorkshire) have
-a mean life expectancy of **80.18 years** — **2.49 years below**
+a mean life expectancy of **80.18 years** - **2.49 years below**
 Southern authorities (82.67 years). The average Southern local
 authority has higher life expectancy than **98% of Northern local
 authorities**. This is one of the largest structural health
@@ -45,7 +40,7 @@ inequalities in English public health data.
 Despite above-average deprivation (mean IMD = 21.5 vs England
 average 19.9), London has the **highest mean life expectancy**
 of any English region (82.9 years). London boroughs consistently
-sit above the national deprivation-life expectancy trend line —
+sit above the national deprivation-life expectancy trend line -
 suggesting deprivation operates differently in the capital.
 National deprivation-based funding formulae should not be applied
 uniformly across London and non-London areas.
